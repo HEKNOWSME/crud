@@ -56,7 +56,7 @@ const App = () => {
 				<UserTable users={users} onEdit={handleEdit} onDelete={handleDelete} />
 			</div>
 		</div>
-	);
+	); 
 };
 
 export default App;
